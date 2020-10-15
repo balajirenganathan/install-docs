@@ -7,7 +7,7 @@ documentation: ug
 
 # Download Installer
 
-You can download the installer from [Syncfusion.com](https://www.syncfusion.com) website. 
+You can download the installer from [Syncfusion.com](https://www.syncfusion.com) website. Test commit
 
 
 ## Download the Trial Version
